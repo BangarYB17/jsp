@@ -18,11 +18,13 @@
        
        <!-- Relational Operators -->
        ${"***** Relational Operations *****"}<br>
-       Greater  than (10 > 15): ${10 >15 } <br>
-       Less than (10 < 15): ${10 <15}<br>
-       Equal to (7 == 7): ${7== 7 }<br>
-       Greater than or equal to (10 >= 11): ${10>=11}<br>
-       Less than or equal to (8 <= 9): ${8<=9}<br> 
-       Not Equal to (10 != 5): ${10 != 5}<br>
+      10 is Greater than 15?: ${10 >15 } <br>
+      10 is Less than 15?: ${10 <15}<br>
+      7 is Equal to 7?: ${7== 7 }<br>
+      10 is Greater than or equal to 11?: ${10>=11}<br>
+      8 is Less than or equal to 9?: ${8<=9}<br> 
+      10 is Not Equal to 5?: ${10 != 5}<br>
+       
+       
 </body>
 </html>
